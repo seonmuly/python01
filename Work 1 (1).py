@@ -1,0 +1,11 @@
+print("hello M6/11")
+print("kwanhathai sanitklang")
+print("no.35")
+print("อายุ:",35,"ปี")
+print("เกิดวันที่17072004")
+print("งานอดิเรก:ดูหนัง ฟังเพลง")
+print("เรียนอยู่ที่โรงเรียนชลราษฎรอำรุง")
+print("เบอร์0903807933")
+print("เรียนอยู่ที่โรงเรียนชลราษฎรอำรุง")
+print("เบอร์0903807933")
+#kwanhathai Sanitklang M.6/11 No.35
